@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DFjPcQ4YentWTuic3qdWWCxaPHqGZGBKl2f5/SwsP/Bju5oLV5f1oeH/w7zBrLACpDiaf/BHK6Jc3r3d9Ff6GQ==",
+  "dgSpecHash": "MN4oMQifpAOsTsOREPYObKviIO6yj1lG9oeqzLst6WbQIdGCHO0hnLr1u0Ktq57wq/yyyUJ97/IFI54C6b02uQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\BookStoreAbpProject.Web.Host.csproj",
+  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\BookStore\\BookStoreAbpProject-master\\ABP\\src\\BookStoreAbpProject.Web.Host\\BookStoreAbpProject.Web.Host.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\abp\\7.3.0\\abp.7.3.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\abp.aspnetcore\\7.3.0\\abp.aspnetcore.7.3.0.nupkg.sha512",
